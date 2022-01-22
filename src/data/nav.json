@@ -1,0 +1,19 @@
+{
+    "items": [
+        {
+            "name": "Posts",
+            "url": "/posts",
+            "title": "Posts"
+        },
+        {
+            "name": "About",
+            "url": "/about",
+            "title": "About"
+        },
+        {
+            "name": "CV",
+            "url": "/cv",
+            "title": "CV"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>your name</title>
+  <subtitle></subtitle>
+  <link href="" rel="self"/>
+  <link href=""/>
+  <updated>2022-01-21T23:54:14Z</updated>
+  <id></id>
+  <author>
+    <name></name>
+    <email></email>
+  </author>
+  
+  <entry>
+    <title>A Post with Media</title>
+    <link href="/posts/post-with-media/"/>
+    <updated>2021-09-03T00:00:00Z</updated>
+    <id>/posts/post-with-media/</id>
+    <content type="html">&lt;p&gt;This is the part of the post that will appear as the excerpt.
+The rest of this post will only appear on the post&#39;s page.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://images.unsplash.com/photo-1638452933982-8fa05063259a?ixlib=rb-1.2.1&amp;amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1770&amp;amp;q=80&quot; alt=&quot;An image of blurred lights!&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A final paragraph.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Basic Post</title>
+    <link href="/posts/basic-post/"/>
+    <updated>2021-09-05T00:00:00Z</updated>
+    <id>/posts/basic-post/</id>
+    <content type="html">&lt;p&gt;What did you say? Good. Have a good trip Einstein, watch your head. Dear Doctor Brown, on the night that I go back in time, you will be shot by terrorists. Please take whatever precautions are necessary to prevent this terrible disaster. Your friend, Marty. Lynda, first of all, I&#39;m not your answering service. Second of all, somebody named Greg or Craig called you just a little while ago. Ronald Reagon, the actor? Then who&#39;s vice president, Jerry Lewis? I suppose Jane Wymann is the first lady.&lt;/p&gt;
+&lt;p&gt;Listen, Doc. Take care. Doc? Am I to understand you&#39;re still hanging around with Doctor Emmett Brown, McFly? Tardy slip for you, Miss Parker. And one for you McFly I believe that makes four in a row. Now let me give you a nickle&#39;s worth of advice, young man. This so called Doctor Brown is dangerous, he&#39;s a real nutcase. You hang around with him you&#39;re gonna end up in big trouble. Did you hurt your head? Go.&lt;/p&gt;
+&lt;p&gt;Wait a minute. Wait a minute, Doc. Are you telling me that it&#39;s 8:25? That&#39;s right. I don&#39;t wanna know your name. I don&#39;t wanna know anything anything about you. David, watch your mouth. You come here and kiss your mother before you go, come here. I don&#39;t know, Doc, I guess she felt sorry for him cause her did hit him with the car, hit me with the car.&lt;/p&gt;
+</content>
+  </entry>
+</feed>

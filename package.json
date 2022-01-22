@@ -1,0 +1,21 @@
+{
+  "name": "eleventy-template-for-academics",
+  "version": "1.0.0",
+  "description": "A mildly opinionated Eleventy starter kit",
+  "scripts": {
+    "eleventy:dev": "cross-env ELEVENTY_ENV=development npx @11ty/eleventy --serve",
+    "eleventy:prod": "cross-env ELEVENTY_ENV=production npx @11ty/eleventy --serve"
+  },
+  "author": "Matt DeCamp",
+  "license": "MIT",
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy-plugin-rss": "^1.1.1",
+    "clean-css": "^5.1.5",
+    "cross-env": "^7.0.3",
+    "eleventy-plugin-svg-sprite": "^1.2.1",
+    "html-minifier": "^4.0.0",
+    "luxon": "^1.28.0",
+    "node-sass": "^6.0.1"
+  }
+}
