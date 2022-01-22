@@ -22,4 +22,4 @@ For additional eleventy commands, visit the [Eleventy command line usage page](h
 
 ## Based on
 
-* [Eleventonia](https://github.com/mattdecamp/eleventonia
+* [Eleventonia](https://github.com/mattdecamp/eleventonia)
