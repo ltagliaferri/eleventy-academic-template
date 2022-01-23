@@ -4,6 +4,7 @@ Main Style Sheet
 :root {
   --background-color: #eeeeee;
   --background-color-secondary: #2b2b2b;
+  --background-color-tertiary: #005b6b;
   --primary: #1f1135;
   --secondary: #ffffff;
   --text-primary: #1f1135;
@@ -606,9 +607,10 @@ nav ul li a:hover {
 
 .tag a {
   padding: var(--s-2) var(--s-1);
+  border-radius: 15px;
   color: var(--text-secondary);
   text-decoration: none;
-  background: var(--background-color-secondary);
+  background: var(--background-color-tertiary);
 }
 
 .icon {

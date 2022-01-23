@@ -8,8 +8,9 @@
 .tag {
     & a {
         padding: var(--s-2) var(--s-1);
+        border-radius: 15px;
         color: var(--text-secondary);
         text-decoration: none;
-        background: var(--background-color-secondary);
+        background: var(--background-color-tertiary);
     }
 }
