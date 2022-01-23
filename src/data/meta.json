@@ -1,6 +1,6 @@
 {
     "title": "{{ site.name }}",
-    "description": "Eleventy academic template",
+    "description": "A Mildly Opinionated Eleventy Starter",
     "url": "",
     "lang": "en",
     "locale": "en_us"
