@@ -16,7 +16,7 @@ title: CV
 
 * 2015, Note sull'edizione 1824 delle Poesie di Giovanni Berchet
 
-more articles to come
+more articles to come in a bit
 
 ## Awards and Honors
 
