@@ -4,6 +4,6 @@ permalink: /about/
 title: About
 ---
 
-# Test
+# Who am I
 
-Lorem ipsum
+Here insert a small bio?
