@@ -9,6 +9,7 @@ title: CV
 ## Academic Affiliations
 
 * PhD Candidate, Rutgers University
+* BA, Italian, Columbia University
 
 ## Publications
 
