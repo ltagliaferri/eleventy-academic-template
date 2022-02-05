@@ -1,11 +1,11 @@
 
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Salvatore Taibi slslsls</title>
+  <title>Salvatore Taibi</title>
   <subtitle></subtitle>
   <link href="" rel="self"/>
   <link href=""/>
-  <updated>2022-02-05T22:12:55Z</updated>
+  <updated>2022-02-05T22:41:57Z</updated>
   <id></id>
   <author>
     <name></name>
@@ -13,12 +13,15 @@
   </author>
   
   <entry>
-    <title>First Post</title>
+    <title>Looking Back, Thinking Ahead</title>
     <link href="/posts/first-post/"/>
     <updated>2022-01-24T00:00:00Z</updated>
     <id>/posts/first-post/</id>
-    <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac commodo nunc. Nullam nec ante leo. Morbi porta convallis magna, eu finibus arcu venenatis id.  Praesent finibus, dolor eu venenatis consectetur, est neque posuere lorem, id semper lorem est in augue. Cras vel tristique elit. Nunc molestie justo ac dolor pulvinar vulputate. Nullam placerat, lorem ac pretium tristique, lacus lectus placerat elit, et ultricies libero tortor id tortor. Sed at mi id lorem interdum imperdiet. Donec efficitur elementum diam, non auctor ex scelerisque quis. Integer tincidunt posuere nisi sed pulvinar. Mauris vitae turpis sed ante fringilla blandit sodales quis purus.&lt;/p&gt;
-&lt;p&gt;Etiam vel ligula quam. Quisque ullamcorper gravida sem a dapibus. Mauris pretium porttitor neque, fringilla sagittis risus egestas nec. Phasellus posuere dui eu ante tempor venenatis. Morbi vitae dui eget dolor facilisis mollis blandit ac tellus. Sed vel metus id nunc faucibus egestas. Nullam ante libero, viverra at lacinia in, eleifend sit amet est.&lt;/p&gt;
+    <content type="html">&lt;p&gt;Where to begin? Times, they are a changin&#39;.
+It&#39;s easy to take for granted all of the technology available at our fingertips today, therefore I find it useful to occasionally stop and think back to a different time. A time before all of this. A time when messages were sent in envelopes, a stamp neatly affixed in the upper right corner, senders and recipients both eager with anticipation. A walk to retrieve one&#39;s mail from a PO Box in the Rutgers&#39; Post Office (does it still exist?), hoping grandma sent a few dollars hidden inside a meticulously folded letter telling you to treat yourself to a meal but full-well knowing it was going to be spent on beer. What does grandma do now? Venmo? Bitcoin? The remarkable thing is all of this wasn&#39;t so long ago.&lt;/p&gt;
+&lt;p&gt;In any case, enough looking back. Let&#39;s cast our eyes forward. This is exciting. I wish I had a nickle for every time I&#39;ve heard: &amp;quot;Digital Humanities... That&#39;s the future.&amp;quot; Nevertheless, there certainly is a lot of truth in those words. The modern American landscape is soaked with opportunity. Anyone can publish their words and images on the web. All the tools are available open-source. Kids are given tablets and laptops at school, wifi is broadcast through the air. It&#39;s all free. Barriers to entry are disappearing.&lt;/p&gt;
+&lt;p&gt;I&#39;m not sure what role DH will play in my own work--mostly because I have no real idea of where I&#39;m going--but I know it will be a factor. I&#39;m already thinking of the possibilities of writing papers about cinema where clips are embedded and the reader can easily &amp;quot;see&amp;quot; what the article is referring to without having to search for the movie. My son would love nothing more than if I started included memes in my work. Perhaps that is how the two of us will collaborate.&lt;/p&gt;
+&lt;p&gt;Starting to figure some of this out. The future&#39;s bright.&lt;/p&gt;
 </content>
   </entry>
   
