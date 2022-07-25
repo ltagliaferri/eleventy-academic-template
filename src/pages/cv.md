@@ -8,7 +8,9 @@ title: CV
 
 ## Academic Affiliations
 
-* PhD Candidate, Rutgers University
+* PhD Candidate
+* MA
+* BA
 
 ## Publications
 

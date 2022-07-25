@@ -1,12 +1,12 @@
 {
   "name": "eleventy-template-for-academics",
   "version": "1.0.0",
-  "description": "A mildly opinionated Eleventy starter kit",
+  "description": "Template for personal academic homepages",
   "scripts": {
     "eleventy:dev": "cross-env ELEVENTY_ENV=development npx @11ty/eleventy --serve",
     "eleventy:prod": "cross-env ELEVENTY_ENV=production npx @11ty/eleventy --serve"
   },
-  "author": "Matt DeCamp",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "@11ty/eleventy": "^0.12.1",
